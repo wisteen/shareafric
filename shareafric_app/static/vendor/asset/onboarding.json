@@ -1,0 +1,237 @@
+[
+
+    {
+        "icon":"fa fa-user",
+        "organisation": "Individual",
+        "description": "Register as an individual",
+        "options":[
+            {
+            "icon":"fa fa-users",
+            "interest": "Impact",
+            "description": "To impact the next generation of leaders"
+            },
+            {
+                "icon":"fa fa-trophy",
+                "interest": "Nuture",
+                "description": "To nuture young talented upcoming entrepreneurs"
+            },
+
+            {
+                "icon":"fa fa-link",
+                "interest": "Connect",
+                "description": "To connect with young like minds professionals for collaboration and partnerships"
+            },
+
+            {
+                "icon":"fa fa-lightbulb-o",
+                "interest": "Mentor",
+                "description": "To mentor and invest in a group of young entrepreneurs"
+            },
+            {
+                "icon":"fa fa-money",
+                "interest": "Co-founder and funds",
+                "description": "To be part of a co-founding team and raise funds for a project"
+            },
+            {
+                "icon":"fa fa-leaf",
+                "interest": "Farm Community",
+                "description": "To establish a farm community franchise farming project location across Africa"
+            }
+                ],
+            "form":"Form-1"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "icon":"fa fa-rocket",
+        "organisation": "Startup /  SMEs",
+        "description": "For Fast growing business",
+        "options":[
+            {
+            "icon":"fa fa-key",
+            "interest": "Discovery",
+            "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Ideas",
+                "description": "Recieve recent News on startup"
+            },
+
+            {
+                "icon":"fa fa-key",
+                "interest": "Development",
+                "description": "Recieve recent News on startup"
+            },
+
+            {
+                "icon":"fa fa-key",
+                "interest": "Pre-Launch",
+                "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Post-Launch",
+                "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Growth",
+                "description": "Recieve recent News on startup"
+            }
+                ],
+            "form":"Form-2"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "icon":"fa fa-lightbulb-o",
+        "organisation": "Mentor",
+        "description": "Nurture a startup to a unicorn",
+        "options":[
+            {
+                "icon":"fa fa-users",
+                "interest": "Impact",
+                "description": "To impact the next generation of leaders"
+                },
+                {
+                    "icon":"fa fa-trophy",
+                    "interest": "Nuture",
+                    "description": "To nuture young talented upcoming entrepreneurs"
+                },
+    
+                {
+                    "icon":"fa fa-link",
+                    "interest": "Connect",
+                    "description": "To connect with young like minds professionals for collaboration and partnerships"
+                },
+    
+                {
+                    "icon":"fa fa-lightbulb-o",
+                    "interest": "Mentor",
+                    "description": "To mentor and invest in a group of young entrepreneurs"
+                },
+                {
+                    "icon":"fa fa-all-o",
+                    "interest": "All",
+                    "description": "All of the above"
+                }
+                ],
+            "form":"Form-2"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "icon":"fa fa-building",
+        "organisation": "Cooperate/ Govenment",
+        "description": "For Individuals and small medium business",
+        "options":[
+            {
+            "icon":"fa fa-key",
+            "interest": "Get Updated",
+            "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Fund raising",
+                "description": "Recieve recent News on startup"
+            },
+
+            {
+                "icon":"fa fa-key",
+                "interest": "Streaming",
+                "description": "Recieve recent News on startup"
+            },
+
+            {
+                "icon":"fa fa-key",
+                "interest": "Business growth",
+                "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Insightful Report",
+                "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Learning",
+                "description": "Recieve recent News on startup"
+            }
+                ],
+            "form":"Form-1"
+    },
+
+
+
+
+
+
+    {
+        "icon":"fa fa-share-square-o",
+        "organisation": "Investors / Tourist",
+        "description": "What do you want to invest on?",
+        "options":[
+            {
+            "icon":"fa fa-key",
+            "interest": "Get Updated",
+            "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Fund raising",
+                "description": "Recieve recent News on startup"
+            },
+
+            {
+                "icon":"fa fa-key",
+                "interest": "Streaming",
+                "description": "Recieve recent News on startup"
+            },
+
+            {
+                "icon":"fa fa-key",
+                "interest": "Business growth",
+                "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Insightful Report",
+                "description": "Recieve recent News on startup"
+            },
+            {
+                "icon":"fa fa-key",
+                "interest": "Learning",
+                "description": "Recieve recent News on startup"
+            }
+                ],
+            "form":"Form-1"
+    }
+]
