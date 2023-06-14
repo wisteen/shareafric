@@ -5,6 +5,17 @@ from django.template.loader import render_to_string
 from .models import *
 
 # Create your views here.
+def main(request):
+    webdata = Webdata.objects.first()
+    team_members = theTeam.objects.all()
+    services = service.objects.all()
+    return render(request, 'pages/index.html',{
+        'webdata': webdata,
+        'team_members': team_members,
+        'services': services,
+        
+        })
+
 def home(request):
     return render(request, 'shareafric_app/test.html')
 

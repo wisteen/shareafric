@@ -175,3 +175,35 @@ class Feedback(models.Model):
 
     def __str__(self):
         return f'{self.name} - {self.email}'
+
+
+class Webdata(models.Model):
+    logo = models.FileField(upload_to='webImages')
+    phone = models.CharField(max_length=255)
+    email = models.EmailField()
+    location = models.CharField(max_length=255)
+    facebook_url = models.URLField(blank=True)
+    instagram_url = models.URLField(blank=True)
+    twitter_url = models.URLField(blank=True)
+    linkedin_url = models.URLField(blank=True)
+    youtube_url = models.URLField(blank=True)
+    welcome_text = models.CharField(max_length=255)
+    sub_welcome_text = models.CharField(max_length=255)
+    about_us_short = models.TextField()
+    about_us_long = models.TextField()
+    about_us_image = models.FileField(upload_to='webImages')
+
+class theTeam(models.Model):
+    picture = models.FileField(upload_to='webImages')
+    full_name = models.CharField(max_length=255)
+    designation = models.CharField(max_length=255)
+    facebook_url = models.URLField(blank=True)
+    instagram_url = models.URLField(blank=True)    
+    twitter_url = models.URLField(blank=True)
+
+
+class service(models.Model):
+    icon_font_awesome = models.CharField(max_length=255)
+    service_title = models.CharField(max_length=50)
+    service_brief_description = models.CharField(max_length=100)
+    service_link = models.URLField(max_length=100)

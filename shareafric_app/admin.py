@@ -34,6 +34,8 @@ admin.site.register(TouristRegistration)
 # admin.site.register(TouristInterest)
 # admin.site.register(SectorOfInterest)
 admin.site.register(Feedback)
+admin.site.register(Webdata)
+admin.site.register(theTeam)
 
 
 
